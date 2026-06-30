@@ -22,6 +22,7 @@ The Intelligence Fabric automatically:
 - Teams no longer need manual reconciliation
 #### 2.1.2 Halo Intelligence Fabric Data Flow
 [https://res.cloudinary.com/dtlycu2wl/image/upload/v1781523422/intelligence_fabric_workflow_l0th8n.png](https://res.cloudinary.com/dtlycu2wl/image/upload/v1781523422/intelligence_fabric_workflow_l0th8n.png)
+
 **Knowledge Check:**
 **Question:** Different systems show different lead counts, campaign results, and performance numbers. Which Halo capability helps address this?
 A. Intelligence Fabric connecting and standardizing data
