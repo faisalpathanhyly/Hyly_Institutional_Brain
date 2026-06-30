@@ -24,7 +24,8 @@ The Intelligence Fabric automatically:
 [https://res.cloudinary.com/dtlycu2wl/image/upload/v1781523422/intelligence_fabric_workflow_l0th8n.png](https://res.cloudinary.com/dtlycu2wl/image/upload/v1781523422/intelligence_fabric_workflow_l0th8n.png)
 
 **Knowledge Check:**
-**Question:** Different systems show different lead counts, campaign results, and performance numbers. Which Halo capability helps address this?
+**Question:** 
+Different systems show different lead counts, campaign results, and performance numbers. Which Halo capability helps address this?
 A. Intelligence Fabric connecting and standardizing data
 B. Manual exports copied into separate spreadsheets
 C. Standalone reports created without source context
@@ -78,8 +79,10 @@ Every metric can be traced back to:
 - Accurate reporting improves budgeting decisions
 - Traceable data increases operational trust
 - Standardization improves scalability
+  
 **Knowledge Check:**
 **Question:** A stakeholder questions where a metric came from during a report review. How does Halo support confidence in the number?
+
 A. It traces metrics back to source systems
 B. It hides source details from report users
 C. It replaces review with manual guessing
