@@ -1,22 +1,5 @@
 {
-  "course_id": "introduction_to_multifamily",
-  "title": "Introduction to Multifamily",
-  "domain": "multifamily_industry",
-  "status": "source_identified",
-  "source": "Hyly.AI Knowledge Brain in Notion",
-  "source_notion_url": "https://app.notion.com/p/37d1db9ba4418059867ee6a3dcc022a9",
-  "chapters": [
-    "chapter_01_introduction_to_the_multifamily_industry",
-    "chapter_02_demographic_trends_in_multifamily_housing",
-    "chapter_03_property_management",
-    "chapter_04_understanding_the_prospect_and_resident_journey_in_multifamily",
-    "chapter_05_the_role_of_data_analytics_and_technology_in_multifamily_property_management",
-    "chapter_06_legal_and_compliance_considerations_in_multifamily"
-  ],
-  "questions": "questions/q_bank.json",
-  "prompts": [
-    "prompts/system.md",
-    "prompts/eval.md"
-  ],
-  "shared_prompt": "../../agent_resources/prompts/universal_shared_course_prompt.md"
+  "title": "",
+  "cohort": "onboarding_cohort_1",
+  "status":"live"
 }

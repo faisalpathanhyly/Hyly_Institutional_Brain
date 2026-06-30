@@ -1,20 +1,5 @@
 {
-  "course_id": "halo_overview",
-  "title": "Halo Overview",
-  "domain": "multifamily_industry",
-  "status": "source_identified",
-  "source": "Hyly.AI Knowledge Brain in Notion",
-  "source_notion_url": "https://app.notion.com/p/37d1db9ba44180a3baefdc760c67c843",
-  "chapters": [
-    "chapter_01_understanding_halo",
-    "chapter_02_halo_reporting_and_data_intelligence",
-    "chapter_03_halo_use_cases",
-    "chapter_04_operational_impact_and_adoption"
-  ],
-  "questions": "questions/q_bank.json",
-  "prompts": [
-    "prompts/system.md",
-    "prompts/eval.md"
-  ],
-  "shared_prompt": "../../agent_resources/prompts/universal_shared_course_prompt.md"
+  "title": "",
+  "cohort": "onboarding_cohort_1",
+  "status":"live"
 }
