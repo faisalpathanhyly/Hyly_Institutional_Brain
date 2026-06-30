@@ -42,3 +42,26 @@ s_academy/multifamily_industry/courses/halo_overview/
 ```
 
 Notes: This version also adds `instructions.md` for repository instructions and keeps one README file at `s_academy/README.md`.
+
+## Date: 2026-06-30
+
+Contributor:
+Marketing Group
+
+Change Name:
+Multifamily Industry Course Migration
+
+Change Type:
+Migration
+
+What Changed:
+Migrated the cleaned, Notion-aligned versions of the Introduction to Multifamily and Halo Overview courses into `s_academy/multifamily_industry/courses/`. The migration includes course metadata, initial messages, table of contents, chapter content, media links, knowledge checks, and question banks.
+
+Why It Changed:
+To move the approved Multifamily Industry course content from Notion into Git so the repository can act as the source of truth for S.Academy course content.
+
+Affected Location:
+`s_academy/multifamily_industry/courses/`
+
+Notes:
+This migration preserves the original Notion course content, sequence, formatting hierarchy, assessments, Cloudinary video links, and image links. Markdown formatting was cleaned to render properly in GitHub without changing the course content.
