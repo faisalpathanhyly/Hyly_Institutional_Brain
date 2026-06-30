@@ -1,0 +1,13 @@
+# Chapter 05 The Role Of Data Analytics And Technology In Multifamily Property Management
+
+## Source
+
+This chapter is currently mapped from the Hyly.AI Knowledge Brain in Notion.
+
+## Content
+
+Add migrated chapter content here.
+
+## Notes
+
+Use underscores in filenames. Keep this file focused on one chapter only.

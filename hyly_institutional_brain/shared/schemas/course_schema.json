@@ -1,0 +1,14 @@
+{
+  "course_id": "string",
+  "title": "string",
+  "domain": "string",
+  "status": "draft|review|published|archived",
+  "source": "string",
+  "chapters": [
+    "string"
+  ],
+  "questions": "path",
+  "prompts": [
+    "path"
+  ]
+}

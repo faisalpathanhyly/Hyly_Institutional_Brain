@@ -1,0 +1,13 @@
+{
+  "asset_id": "string",
+  "title": "string",
+  "domain": "string",
+  "asset_type": "string",
+  "status": "draft|review|published|archived",
+  "owner": "string",
+  "source": "string",
+  "related_assets": [
+    "string"
+  ],
+  "last_updated": "YYYY_MM_DD"
+}

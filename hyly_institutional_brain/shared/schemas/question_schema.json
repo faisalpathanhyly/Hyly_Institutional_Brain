@@ -1,0 +1,8 @@
+{
+  "question_id": "string",
+  "question": "string",
+  "answer": "string",
+  "type": "string",
+  "chapter": "string",
+  "subchapter": "string"
+}
