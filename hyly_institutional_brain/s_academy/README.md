@@ -1,238 +1,391 @@
-# Hyly Institutional Brain and S.Academy Repository Guide
+# Hyly Institutional Brain
 
-## Purpose
+> **The centralized source of truth for Hyly.AI's institutional knowledge.**
 
-This repository is the first structured version of the Hyly Institutional Brain.
+---
 
-The Institutional Brain is the Git-based source of truth for knowledge assets, learning assets, prompts, instructions, governance rules, and supporting resources that can be used by humans, AI agents, and S.Academy.
+# Welcome
 
-S.Academy is Hyly.AI's AI-backed learning platform. It is similar to an LMS, but instead of being built fully inside a third-party LMS, it uses structured knowledge, Git, LLMs, and supporting tools to deliver courses, assessments, AI-guided learning, and other knowledge experiences.
+Welcome to the **Hyly Institutional Brain**.
 
-The key distinction is:
+The Institutional Brain is the centralized repository where Hyly.AI's knowledge is created, organized, governed, and maintained. It serves as the organization's single source of truth for institutional knowledge and is designed to support both human contributors and AI-powered applications.
+
+Unlike a traditional document repository, the Institutional Brain is built around structured knowledge rather than individual documents. Every piece of information stored within the repository is intended to be reusable, version controlled, and organized according to a common set of standards.
+
+As the organization continues to grow, the Institutional Brain provides a scalable foundation that allows knowledge to evolve while remaining consistent, discoverable, and easy to maintain.
+
+---
+
+# Purpose
+
+The Institutional Brain exists to solve a simple problem.
+
+Knowledge is one of an organization's most valuable assets, yet it is often scattered across documents, meeting notes, presentations, chat conversations, and individual contributors. Over time, this creates duplication, inconsistent information, and makes it increasingly difficult to find trusted answers.
+
+The Institutional Brain addresses this by providing a centralized repository where knowledge is:
+
+* Structured
+* Governed
+* Version controlled
+* Reusable
+* AI-readable
+* Easy to discover
+* Easy to maintain
+
+Rather than treating documents as the primary asset, the Institutional Brain treats **knowledge** as the primary asset.
+
+Everything stored within this repository should contribute to strengthening the organization's institutional knowledge.
+
+---
+
+# Platform Architecture
+
+The Institutional Brain forms the foundation of the Knowledge Management ecosystem.
 
 ```text
-Git = Brain and source of truth
-S.Academy = AI-backed learning platform
-LLM = Intelligence layer
-Learners = End users who consume the knowledge
+                           Hyly Institutional Brain
+                              (Source of Truth)
+
+                                        │
+               ┌────────────────────────┼────────────────────────┐
+               │                        │                        │
+
+          Governance               Shared                  S.Academy
+                                                               │
+                                                       Knowledge Domains
+                                                               │
+                                                       Knowledge Assets
+                                                               │
+                                                      AI-backed Learning
+                                                               │
+                                                            Learners
 ```
 
-## Core Architecture
+The repository itself acts as the Institutional Brain.
 
-```text
-hyly_institutional_brain/
-│
-├── instructions.md
-├── history.md
-├── docs/
-├── governance/
-├── shared/
-├── exports/
-└── s_academy/
-    ├── README.md
-    ├── multifamily_industry/
-    ├── client_intelligence/
-    ├── ai_intelligence/
-    ├── partner_integrations/
-    └── competitor_intelligence/
-```
+Governance establishes how knowledge is managed.
 
-## Why This Repository Exists
+Shared provides reusable standards and resources used across the repository.
 
-The organization needs a structured place where knowledge can be organized, version controlled, reused, and accessed by AI systems.
+S.Academy consumes institutional knowledge to deliver AI-backed learning experiences.
 
-Notion has been useful for creating and drafting knowledge, but the long-term direction is to treat Git as the structured Institutional Brain.
+---
 
-The repository is designed so that knowledge does not remain trapped inside courses, isolated documents, or individual team members' heads. Instead, knowledge becomes a reusable asset that can support learning, AI agents, client intelligence, product understanding, and future knowledge systems.
+# Core Architecture
+
+The architecture is built around a clear separation of responsibilities.
+
+## Hyly Institutional Brain
+
+The Institutional Brain is the organization's structured source of truth.
+
+It stores institutional knowledge, governs how that knowledge is organized, and provides a consistent foundation that can be consumed by multiple systems over time.
+
+Knowledge should always originate here.
+
+---
+
+## Governance
+
+Governance defines how the repository is managed.
+
+Rather than storing knowledge, this area contains the standards that ensure knowledge remains accurate, consistent, and maintainable.
+
+Examples include ownership, review workflows, quality standards, and lifecycle management.
+
+---
+
+## Shared
+
+The Shared area contains reusable components used throughout the repository.
+
+Rather than duplicating structures or standards across multiple knowledge domains, reusable assets are maintained centrally.
+
+Examples include:
+
+* Schemas
+* Templates
+* Shared prompts
+* Common standards
+
+This ensures consistency across the entire Institutional Brain.
+
+---
 
 ## S.Academy
 
-S.Academy sits inside the Institutional Brain because it is the main learning platform that will consume this knowledge.
+S.Academy is Hyly.AI's AI-backed Learning Management Platform.
 
-S.Academy should not be treated as the source of truth. The source of truth is the Git-based Institutional Brain.
+It is responsible for transforming institutional knowledge into learning experiences such as courses, assessments, AI tutoring, and future educational experiences.
 
-S.Academy uses selected knowledge from the brain to deliver:
+S.Academy is **not** the source of truth.
 
-- Courses
-- Assessments
-- AI tutor experiences
-- Knowledge assets
-- Future learning experiences
+Instead, it consumes knowledge from the Institutional Brain while allowing learners to interact with that knowledge through an AI-assisted learning experience.
 
-## Knowledge Domains
+---
 
-The repository contains five knowledge domains under S.Academy.
+# Repository Structure
 
 ```text
-s_academy/
-├── multifamily_industry/
-├── client_intelligence/
-├── ai_intelligence/
-├── partner_integrations/
-└── competitor_intelligence/
+hyly_institutional_brain/
+
+│
+├── governance/
+├── shared/
+├── s_academy/
+│
+├── README.md
+├── instructions.md
+└── history.md
 ```
 
-### Multifamily Industry Knowledge
+## governance/
 
-This domain contains knowledge about the multifamily industry, including terminology, concepts, workflows, personas, regulations, industry context, and related learning assets.
+Contains repository governance and operational standards.
 
-For the MVP, this domain includes course folders for:
+This area defines how the Institutional Brain is managed and maintained.
+
+Typical documents include:
+
+* Ownership
+* Review Workflow
+* Knowledge Lifecycle
+* Quality Standards
+
+---
+
+## shared/
+
+Contains reusable standards and resources shared across the repository.
+
+Examples include:
+
+* Schemas
+* Templates
+* Shared prompts
+* Reusable components
+
+Any resource intended to be reused across multiple knowledge domains should reside here.
+
+---
+
+## s_academy/
+
+Contains the knowledge that powers the S.Academy platform.
+
+Knowledge is organized into independent knowledge domains while following the standards defined throughout the repository.
+
+---
+
+# Knowledge Domains
+
+Knowledge within S.Academy is organized into dedicated knowledge domains.
+
+Each domain represents a specific area of institutional knowledge while remaining independent from the others.
+
+---
+
+## Multifamily Industry
+
+The Multifamily Industry domain serves as the organization's knowledge base for the multifamily industry.
+
+It contains foundational industry knowledge together with the learning experiences required to educate new employees and future learners.
+
+Examples include:
+
+* Introduction to Multifamily
+* Halo Overview
+* Industry concepts
+* Terminology
+* Workflows
+* Assessments
+* Shared course prompts
+
+This domain establishes the foundational knowledge required to understand the multifamily industry before progressing into product-specific knowledge.
+
+---
+
+## Client Intelligence
+
+The Client Intelligence domain captures reusable knowledge generated through customer interactions.
+
+Its objective is to transform customer knowledge into reusable institutional knowledge.
+
+Examples include:
+
+* Client meeting insights
+* Success stories
+* Product feedback
+* Customer pain points
+* Frequently asked questions
+* Adoption journeys
+* Best practices
+
+Rather than storing isolated meeting notes, this domain focuses on capturing knowledge that can continuously improve learning and decision making.
+
+---
+
+## AI Intelligence
+
+The AI Intelligence domain captures organizational knowledge related to Artificial Intelligence.
+
+Its purpose is to consolidate research, experiments, prompt engineering practices, AI workflows, and emerging technologies into a reusable knowledge base.
+
+Examples include:
+
+* AI research
+* Prompt engineering
+* LLM evaluations
+* AI experiments
+* Best practices
+* AI implementation patterns
+
+As AI continues to evolve, this domain provides a centralized location for maintaining institutional AI knowledge.
+
+---
+
+## Partner Integrations
+
+The Partner Integrations domain contains knowledge related to third-party systems and integrations.
+
+Examples include:
+
+* Integration documentation
+* Partner capabilities
+* Integration limitations
+* Troubleshooting
+* Onboarding guidance
+
+This domain ensures that integration knowledge is maintained consistently and remains reusable across the organization.
+
+---
+
+## Competitor Intelligence
+
+The Competitor Intelligence domain captures knowledge related to market competitors.
+
+Examples include:
+
+* Competitor research
+* Product comparisons
+* Feature analysis
+* Battle cards
+* Industry positioning
+
+This knowledge supports strategic decision making while maintaining a centralized repository of competitive intelligence.
+
+---
+
+# Repository Standards
+
+The Institutional Brain follows common standards to ensure consistency across all knowledge domains.
+
+## instructions.md
+
+Provides repository-wide instructions for contributors.
+
+It explains how knowledge should be created, maintained, and organized throughout the repository.
+
+---
+
+## shared/schemas/
+
+Schemas define the standard structure for different types of repository content.
+
+Every document type should follow its corresponding schema to maintain consistency across the Institutional Brain.
+
+Examples include:
+
+* README Schema
+* Course Schema
+* Knowledge Asset Schema
+* Assessment Schema
+* Prompt Schema
+
+---
+
+## shared/templates/
+
+Templates provide reusable starting points for creating new repository content.
+
+Templates are based on their corresponding schemas and help contributors maintain consistency while creating new knowledge assets.
+
+---
+
+## history.md
+
+Records significant repository milestones and architectural changes.
+
+Git automatically maintains the technical history of every commit.
+
+The History document exists to capture major repository changes that are meaningful from a business and knowledge management perspective.
+
+---
+
+# Knowledge Flow
+
+Knowledge moves through the platform in a structured manner.
 
 ```text
-introduction_to_multifamily
-halo_overview
+Knowledge Created
+        │
+        ▼
+Knowledge Domain
+        │
+        ▼
+Knowledge Asset
+        │
+        ▼
+Institutional Brain
+        │
+        ▼
+S.Academy
+        │
+        ▼
+AI-backed Learning
+        │
+        ▼
+Learners
 ```
 
-These courses were identified from the Hyly.AI Knowledge Brain in Notion and are being placed under Multifamily Industry Knowledge because they support foundational multifamily and Halo learning.
+Knowledge should always originate within the Institutional Brain before being consumed by S.Academy.
 
-### Client Intelligence
+This ensures that all learning experiences remain synchronized with the organization's source of truth.
 
-This domain contains structured customer and client knowledge.
+---
 
-It can include:
+# Repository Growth Strategy
 
-- Client meeting insights
-- Product feedback
-- Pain points
-- Adoption challenges
-- Success stories
-- Business impact narratives
-- Videos and supporting references
+The Institutional Brain has been intentionally designed as a single repository containing multiple knowledge domains.
 
-Videos should generally be stored as links inside Markdown files rather than uploaded directly into Git, unless the team decides otherwise.
+Maintaining a unified repository provides consistent governance, reusable standards, and centralized knowledge management across the organization.
 
-### AI Intelligence
+As individual knowledge domains mature, they can be separated into independent repositories without requiring the overall architecture to be redesigned.
 
-This domain contains AI-related knowledge.
+This approach allows the repository to scale while preserving a consistent knowledge management framework.
 
-It can include:
+---
 
-- AI trends
-- AI tools
-- Internal AI experiments
-- Claude notes
-- DeepSeek research
-- Prompt practices
-- Provider-neutral AI considerations
+# Contributing
 
-### Partner Integrations
+Every contribution should strengthen the Institutional Brain.
 
-This domain is scaffolded for future use.
+Before creating or updating content:
 
-It will later contain partner and integration knowledge such as PMS, CRM, onboarding processes, dependencies, risks, limitations, and troubleshooting.
+1. Review the repository instructions.
+2. Follow the appropriate schema.
+3. Use the relevant template whenever available.
+4. Organize knowledge within the appropriate knowledge domain.
+5. Commit changes using a clear and meaningful commit message.
 
-### Competitor Intelligence
+Following these standards ensures that institutional knowledge remains structured, reusable, and easy to maintain as the repository continues to grow.
 
-This domain is scaffolded for future use.
+---
 
-It will later contain competitor knowledge, differentiators, positioning, comparison notes, and battlecard-style assets.
+# Closing Statement
 
-## MVP Focus
+The Hyly Institutional Brain is more than a Git repository.
 
-For the first 30 days, the active focus is:
+It is the organization's institutional memory.
 
-```text
-multifamily_industry
-client_intelligence
-ai_intelligence
-```
-
-The other two domains exist so the repository can scale without needing to be redesigned later.
-
-## Naming Standard
-
-Use underscores in all folder and file names.
-
-Correct:
-
-```text
-multifamily_industry
-client_intelligence
-introduction_to_multifamily
-review_workflow.md
-quality_standards.md
-```
-
-Incorrect:
-
-```text
-multifamily-industry
-client-intelligence
-introduction-to-multifamily
-review-workflow.md
-quality-standards.md
-```
-
-## Single README Rule
-
-This file is the single README for the S.Academy repository area.
-
-Do not add separate README files inside each course, domain, or subfolder unless the repository standard changes.
-
-Use `instructions.md` for instructions and `history.md` for change tracking.
-
-## How to Add a Knowledge Asset
-
-To add a knowledge asset, first identify the correct knowledge domain.
-
-For example, a client success story should go under:
-
-```text
-s_academy/client_intelligence/knowledge_assets/
-```
-
-A new AI experiment should go under:
-
-```text
-s_academy/ai_intelligence/experiments/
-```
-
-A multifamily concept should go under:
-
-```text
-s_academy/multifamily_industry/knowledge_assets/
-```
-
-The asset should be written in Markdown and should include enough context for both a human and an AI agent to understand it.
-
-## How to Add a Video
-
-Videos should usually be added as links inside Markdown files.
-
-Example:
-
-```markdown
-# Halo Pre Pilot Explainer
-
-## Video Link
-
-https://example.com/video
-
-## Summary
-
-This video explains...
-
-## Key Takeaways
-
-...
-```
-
-This keeps Git focused on knowledge structure while the video itself remains hosted in the correct video platform.
-
-## How to Update a Course Rule
-
-Small updates can be made directly in GitHub.
-
-Open the relevant file, click edit, make the text change, and commit.
-
-There is no need to upload a new ZIP for every change.
-
-## Change Tracking
-
-All meaningful changes should be recorded in:
-
-```text
-history.md
-```
-
-This keeps a readable record of what changed, when it changed, why it changed, and which files were affected.
+Every contribution should improve the quality, reliability, and reusability of organizational knowledge while ensuring that future teammates, AI systems, and learning platforms can continue building upon a trusted foundation.
