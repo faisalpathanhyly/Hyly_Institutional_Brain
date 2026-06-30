@@ -1,0 +1,65 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "chapter_title": "Chapter 1: Introduction to the Multifamily Industry",
+      "source_url": "https://app.notion.com/p/52c1db9ba44183d4a26581ee7ab82a74",
+      "videos": [
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1779292674/Multifamily_Foundations_f8i4lv.mp4",
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1779293490/What_Makes_Multifamily_Tick_1_zisj6x.mp4",
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1779293783/Property_Lifecycle_Stages_1_n5pfi9.mp4",
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1779294023/8_Orgs_Shaping_Multifamily_npxywv.mp4"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dtlycu2wl/image/upload/v1779293227/type_of_multifamily_community_anicka.webp",
+        "https://res.cloudinary.com/dtlycu2wl/image/upload/v1779293645/Property_Types_Self-Managed_and_Third-Party_Managed_Properties_uekoxj.png",
+        "https://res.cloudinary.com/dtlycu2wl/image/upload/v1779293992/market_segment_tfwy9w.webp"
+      ]
+    },
+    {
+      "chapter": 2,
+      "chapter_title": "Chapter 2: Demographic Trends in Multifamily Housing",
+      "source_url": "https://app.notion.com/p/5fe1db9ba44182eeb09581c393a268b0",
+      "videos": [
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1780408763/Multifamily_Trends_libl6x.mp4"
+      ],
+      "images": []
+    },
+    {
+      "chapter": 3,
+      "chapter_title": "Chapter 3: Property Management",
+      "source_url": "https://app.notion.com/p/80a1db9ba4418367952301356a68aa06",
+      "videos": [
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1780409930/Multifamily_Industry_Roles_xptcot.mp4"
+      ],
+      "images": []
+    },
+    {
+      "chapter": 4,
+      "chapter_title": "Chapter 4: Understanding the Prospect and Resident Journey in Multifamily",
+      "source_url": "https://app.notion.com/p/72c1db9ba44182159bdc014032868112",
+      "videos": [
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1780411400/Multifamily_Leasing_Journey_ebgldq.mp4"
+      ],
+      "images": []
+    },
+    {
+      "chapter": 5,
+      "chapter_title": "Chapter 5: The Role of Data Analytics and Technology in Multifamily Property Management",
+      "source_url": "https://app.notion.com/p/fdc1db9ba441831093dd01a4b6303a12",
+      "videos": [
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1780412288/Multifamily_Data_Analytics_tfuea1.mp4"
+      ],
+      "images": []
+    },
+    {
+      "chapter": 6,
+      "chapter_title": "Chapter 6: Legal and Compliance Considerations in Multifamily",
+      "source_url": "https://app.notion.com/p/5181db9ba44182578a190193a9e0a7fa",
+      "videos": [
+        "https://res.cloudinary.com/dtlycu2wl/video/upload/v1780413522/Multifamily_Legal_Risks_lxml53.mp4"
+      ],
+      "images": []
+    }
+  ]
+}

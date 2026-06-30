@@ -1,0 +1,24 @@
+{
+  "videos": [
+    {
+      "chapter": 1,
+      "chapter_title": "Chapter 1: Understanding Halo",
+      "url": "https://res.cloudinary.com/dtlycu2wl/video/upload/v1781522105/Halo_Intelligence_catajj.mp4"
+    },
+    {
+      "chapter": 2,
+      "chapter_title": "Chapter 2: Halo Reporting & Data Intelligence",
+      "url": "https://res.cloudinary.com/dtlycu2wl/video/upload/v1781523232/2.1_IF_halo_lqdxid.mp4"
+    },
+    {
+      "chapter": 3,
+      "chapter_title": "Chapter 3: Attribution & Performance Optimization",
+      "url": "https://res.cloudinary.com/dtlycu2wl/video/upload/v1781525701/3.1_Understanding_Attribution_in_Halo_z9g9l4.mp4"
+    },
+    {
+      "chapter": 4,
+      "chapter_title": "Chapter 4: Operational Impact & Adoption",
+      "url": "https://res.cloudinary.com/dtlycu2wl/video/upload/v1781526227/Real-World_Halo_Impact_Stories_eil6om.mp4"
+    }
+  ]
+}

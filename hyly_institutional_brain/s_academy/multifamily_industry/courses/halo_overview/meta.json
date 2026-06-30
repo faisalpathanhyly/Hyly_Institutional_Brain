@@ -1,0 +1,14 @@
+{
+  "course_id": "halo_overview",
+  "title": "Halo Overview",
+  "type": "course",
+  "status": "live",
+  "cohort": "onboarding_cohort_1",
+  "domain": "multifamily_industry",
+  "source": "Hyly.AI Knowledge Brain",
+  "source_url": "https://app.notion.com/p/37d1db9ba44180a3baefdc760c67c843",
+  "version": "1.0.0",
+  "language": "en",
+  "last_migrated": "2026-06-30",
+  "classification_note": "The cohort field allows AI/LLM and rendering systems to classify and route this course later."
+}
