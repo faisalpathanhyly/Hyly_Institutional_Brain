@@ -46,18 +46,7 @@ The goal is to create a smoother onboarding experience, evaluate learning and re
 
 ### Primary Owner
 
-Marketing Group / L&D owner
-
-### Supporting Teams
-
-The following teams may contribute to or review onboarding assets:
-
-- Managers
-- Department leads
-- CSM team
-- Product owners
-- Growth team, for video assets
-- Trainers or reviewers involved in onboarding
+KM Team
 
 ### Ownership Responsibilities
 
@@ -73,17 +62,6 @@ The owner is responsible for:
 - updating checklists and mindmaps when onboarding processes change
 - maintaining performance tracking and refinement assets
 
-### Asset Ownership
-
-| Asset Type | Primary Owner | Supporting Reviewer |
-|---|---|---|
-| Training plans | Marketing Group / L&D owner | Department manager |
-| Product intelligence assets | Marketing Group / L&D owner | Product owner or product trainer |
-| Evaluation assets | Marketing Group / L&D owner | Department manager |
-| Mindmaps | Marketing Group / L&D owner | Trainer or manager |
-| Checklists | Marketing Group / L&D owner | Manager or reviewer |
-| Performance tracking assets | Manager | Marketing Group / L&D owner |
-| Growth team video references | Marketing Group / L&D owner | Growth team or product reviewer |
 
 ### S.Academy Relationship
 
