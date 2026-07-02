@@ -2,12 +2,12 @@
   "platform": "s_academy",
   "description": "AI-backed learning platform consuming the Hyly Institutional Brain",
   "active_mvp_domains": [
-    "multifamily_industry",
+    "multifamily_industry_intelligence",
     "client_intelligence",
     "ai_intelligence"
   ],
   "future_domains": [
-    "partner_integrations",
+    "partner_integrations_intelligence",
     "competitor_intelligence"
   ],
   "readme": "s_academy/README.md"
