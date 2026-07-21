@@ -24,9 +24,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776930672/ch1_4d_throne_ds9f
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why should Delegation happen before opening an AI tool? | Because learners must first decide whether AI should do the task, what part it should support, and what must stay human. |
+**Question:** A teammate says, “I always open AI first and figure out the task while typing.” What is the best Delegation advice?
+
+A. Open AI first because the tool should decide what the task is.
+
+B. Pause first and decide what AI should do, what you should do, and which tool fits the task.
+
+C. Avoid using AI because thinking before prompting takes too much time.
+
+D. Use the strongest model every time so Delegation is unnecessary.
+
+**Correct Answer:** B — Pause first and decide what AI should do, what you should do, and which tool fits the task, is correct because Delegation happens before prompting.
 
 ## 2.2 The 3 Questions Before Using AI
 
@@ -40,9 +48,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776932680/ch2_delegation_dec
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| What are the three checks learners should run before using AI? | Problem Awareness, Platform Awareness, and Task Delegation. |
+**Question:** You want to use AI for a report, but you are not clear on the problem, audience, or success criteria. What should you do first?
+
+A. Start prompting immediately so AI can define the problem for you.
+
+B. Pause and clarify the problem and success criteria before using AI.
+
+C. Choose the fastest model and ask it to produce the full report.
+
+D. Skip AI entirely because unclear tasks can never use AI support.
+
+**Correct Answer:** B — Pause and clarify the problem and success criteria before using AI, is correct because Problem Awareness must come before AI support.
 
 ## 2.3 Execution vs. Judgment
 
@@ -59,9 +75,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776932680/ch2_execution_vs_j
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why should high-stakes decisions stay human-led? | Because they require business context, relationship awareness, and professional judgment that AI does not fully have. |
+**Question:** A task requires cleaning a spreadsheet, applying the same formatting rule, and organizing hundreds of rows. Should AI help?
+
+A. Yes, because this is structured execution work with clear rules.
+
+B. No, because AI should only be used for sensitive business decisions.
+
+C. No, because repetitive work always requires human judgment.
+
+D. Yes, because AI should own the final business decision too.
+
+**Correct Answer:** A — Yes, because this is structured execution work with clear rules, is correct because AI is strong at repetitive, structured, pattern-based work.
 
 ## 2.4 Delegation in Hyly Workflows
 
@@ -86,6 +110,14 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776932679/ch2_delegation_thr
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| In the QA example, why can AI create E2E scripts but not define TDD standards? | E2E scripts are structured execution work. TDD standards require human experience, judgment, and context. |
+**Question:** In a QA workflow, Claude maps bugs from QA Tracker into PM.Bugs using clear field rules. But a PM still decides whether a bug is truly P0. Why is this the right Delegation split?
+
+A. AI can handle structured mapping, but business severity needs human judgment.
+
+B. AI should decide severity because it can read more data than humans.
+
+C. PMs should manually do all mapping because AI cannot follow rules.
+
+D. Claude should be avoided because QA workflows cannot use automation.
+
+**Correct Answer:** A — AI can handle structured mapping, but business severity needs human judgment, is correct because mapping is execution work while P0 severity requires product context and business impact judgment.
