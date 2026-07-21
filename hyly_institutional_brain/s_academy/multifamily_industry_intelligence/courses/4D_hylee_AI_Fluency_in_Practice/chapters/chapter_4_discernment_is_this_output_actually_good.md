@@ -12,9 +12,17 @@ https://res.cloudinary.com/dtlycu2wl/video/upload/v1777011128/Chapter_4__Discern
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| What does “Confident ≠ Correct” mean? | AI output can sound polished and certain, but still be inaccurate, incomplete, or wrong for the situation. |
+**Question:** AI gives you a clean, confident answer for a client-facing summary. What should you remember before using it?
+
+A. A polished answer still needs review because confident output is not always correct.
+
+B. A polished answer can be shared immediately because style proves accuracy.
+
+C. A confident answer means the AI checked the facts for you.
+
+D. A clean answer should only be reviewed if it has spelling mistakes.
+
+**Correct Answer:** A — A polished answer still needs review because confident output is not always correct, is correct because the core rule of Discernment is Confident ≠ Correct.
 
 ## 4.2 The 3 Levels of Discernment
 
@@ -28,9 +36,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776941108/ch4_discernment_le
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| What are the three levels of Discernment? | Product Discernment, Process Discernment, and Performance Discernment. |
+**Question:** AI gives an accurate answer, but it uses a tone that is too casual for an executive audience. Which level of Discernment catches this issue?
+
+A. Product Discernment catches this because the facts are wrong.
+
+B. Process Discernment catches this because the assumptions are missing.
+
+C. Performance Discernment catches this because the role, tone, and detail level are misaligned.
+
+D. Diligence catches this because the AI shared private data.
+
+**Correct Answer:** C — Performance Discernment catches this because the role, tone, and detail level are misaligned, is correct because Performance checks whether the output fits the audience and expected behavior.
 
 ## 4.3 The Description ↔ Discernment Loop
 
@@ -45,9 +61,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776941109/ch4_refine_loop_1_
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why is the second prompt often better than the first? | Because the learner uses what they noticed in the first output to improve the next Description. |
+**Question:** Your first AI draft misses two important client constraints. What should you do next?
+
+A. Improve the next prompt by adding the missing constraints and ask AI to revise.
+
+B. Use the draft anyway because the first output is usually final.
+
+C. Delete the task because AI cannot improve after one attempt.
+
+D. Ask AI to choose the missing constraints without giving it context.
+
+**Correct Answer:** A — Improve the next prompt by adding the missing constraints and ask AI to revise, is correct because the Description ↔ Discernment loop uses review to improve the next prompt.
 
 ## 4.4 Discernment in Hyly Workflows
 
@@ -60,6 +84,14 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776941108/ch4_discernment_th
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why does Discernment require Hyly-specific knowledge? | Because AI may not know the product context, client context, business priority, or internal judgment needed to evaluate the output. |
+**Question:** AI labels a client request as a product gap, but a business owner notices the client may simply need dashboard configuration support. What does this show?
+
+A. AI should always decide whether a request is a product gap.
+
+B. Hyly-specific judgment is needed because AI may miss product context and client context.
+
+C. Client requests should never be analyzed with AI support.
+
+D. A clean AI label means the request is already understood correctly.
+
+**Correct Answer:** B — Hyly-specific judgment is needed because AI may miss product context and client context, is correct because Discernment requires human business knowledge.
