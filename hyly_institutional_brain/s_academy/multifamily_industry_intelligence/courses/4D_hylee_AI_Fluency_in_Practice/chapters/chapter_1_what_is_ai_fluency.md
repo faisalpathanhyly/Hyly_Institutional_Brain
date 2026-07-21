@@ -31,9 +31,17 @@ This course — the **4D Framework** — is your practical guide to building you
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why does the course begin with the Hylee OS before explaining AI fluency? | Because AI fluency is not just about tools. It is part of becoming a stronger, more useful, and more irreplaceable professional at Hyly. |
+**Question:** A new Hylee says, “I thought this course was about using AI tools. Why are we starting with the Hylee OS and the 4-Legged Throne?” What is the best response?
+
+A. Because AI fluency is only about learning which AI tool is fastest.
+
+B. Because AI fluency supports long-term professional growth, not just tool usage.
+
+C. Because the Hylee OS replaces the need to learn AI tools.
+
+D. Because AI tools only matter for technical teams at Hyly.
+
+**Correct Answer:** B — Because AI fluency supports long-term professional growth, not just tool usage, is correct because the Hylee OS connects AI fluency to stronger work, better judgment, and long-term professional value.
 
 ## 1.2 The 4 E’s of AI Fluency
 
@@ -66,9 +74,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776930673/ch1_4es_ai_fluency
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why is “fast output” alone not enough to prove AI fluency? | Because AI output must also be effective, ethical, and evidenced. Speed without quality or responsibility can create risk. |
+**Question:** A teammate uses AI to create a client summary in 30 seconds, but they do not check the facts before sharing it. Which part of AI fluency is missing?
+
+A. The teammate is missing the Evidenced part because the output was not checked before use.
+
+B. The teammate is missing the Efficient part because the output was created too quickly.
+
+C. The teammate is missing the Effective part because AI should never write summaries.
+
+D. The teammate is missing the Ethical part because all AI summaries are unsafe.
+
+**Correct Answer:** A — The teammate is missing the Evidenced part because the output was not checked before use, is correct because AI fluency requires output to be verified and not accepted blindly.
 
 ## 1.3 The 4D Framework
 
@@ -83,9 +99,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776930673/ch1_4es_ai_fluency
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Which D helps learners decide what AI should do and what should stay human? | Delegation. |
+**Question:** A learner opens Claude and immediately asks it to solve a client problem without deciding what AI should do, what context to give, or how they will review the answer. Which 4D habit did they skip first?
+
+A. They skipped Delegation because they did not decide whether AI should handle the task.
+
+B. They skipped Description because they reviewed the AI output too carefully.
+
+C. They skipped Diligence because they used AI for a low-risk task.
+
+D. They skipped Discernment because they chose the wrong visual asset.
+
+**Correct Answer:** A — They skipped Delegation because they did not decide whether AI should handle the task, is correct because Delegation comes before prompting and helps the learner decide what AI should do versus what should stay human-led.
 
 ## 1.4 How the 4Ds Build the Hylee OS
 
@@ -100,6 +124,14 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776930672/ch1_4d_throne_ds9f
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why do the 4Ds matter beyond just using AI tools? | Because they strengthen the learner’s Core Skill, AI Multiplier, Business Multiplier, and Skill Adjacency. |
+**Question:** You use AI to draft a workflow, then review whether the output solves the right business problem before sharing it. Which Hylee OS leg are you strengthening most through that review?
+
+A. You are strengthening the Business Multiplier because you are judging whether the output creates real business value.
+
+B. You are strengthening Skill Adjacency because you are avoiding all AI tools.
+
+C. You are strengthening Core Skill because you are asking AI to make every decision.
+
+D. You are strengthening AI Multiplier because you skipped the review step.
+
+**Correct Answer:** A — You are strengthening the Business Multiplier because you are judging whether the output creates real business value, is correct because Discernment applies business judgment to AI output.
