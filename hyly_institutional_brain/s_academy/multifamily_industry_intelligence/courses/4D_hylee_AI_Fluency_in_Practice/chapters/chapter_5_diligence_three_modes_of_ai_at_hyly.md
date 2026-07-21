@@ -12,9 +12,17 @@ https://res.cloudinary.com/dtlycu2wl/video/upload/v1777010862/Chapter_5__Diligen
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why does Diligence matter when using AI? | Because AI can act quickly and at scale, so poor guardrails can create data, client, or workflow risk. |
+**Question:** A teammate wants to paste client lead data into an AI tool to save time. What should they do first?
+
+A. Check whether the data is safe to share and anonymize sensitive information before using AI.
+
+B. Paste the data immediately because faster work is the main goal of AI.
+
+C. Use any AI tool because all tools handle client data the same way.
+
+D. Ask AI to decide whether the data is sensitive after pasting it.
+
+**Correct Answer:** A — Check whether the data is safe to share and anonymize sensitive information before using AI, is correct because Creation Diligence requires safe data handling before using AI.
 
 ## 5.2 Creation, Transparency, and Deployment Diligence
 
@@ -28,9 +36,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776941480/ch5_diligence_tria
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| What are the three aspects of Diligence? | Creation Diligence, Transparency Diligence, and Deployment Diligence. |
+**Question:** You use Claude to analyze trends, then apply your own judgment before sharing the final recommendation. How should you describe AI’s role?
+
+A. “Claude helped analyze the trends, and I reviewed the output before making the recommendation.”
+
+B. “This recommendation came fully from me, and AI was not involved.”
+
+C. “Claude made the decision, so I am not responsible for the recommendation.”
+
+D. “AI created the answer, so no further explanation is needed.”
+
+**Correct Answer:** A — “Claude helped analyze the trends, and I reviewed the output before making the recommendation,” is correct because Transparency Diligence means being honest about AI’s role while Deployment Diligence keeps ownership with the human.
 
 ## 5.3 Access Rules and Risk Questions
 
@@ -54,9 +70,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776941480/ch5_diligence_tria
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why should access rules be defined before connecting AI to Hyly systems? | Because one bad rule can create damage at scale once the AI workflow is active. |
+**Question:** An AI agent only needs to read QA bugs and create linked PM.Bugs entries. Someone suggests giving it delete access “just in case.” What is the best response?
+
+A. Do not give delete access unless the workflow truly requires it, because one bad rule could wipe important records.
+
+B. Give delete access because more permissions always make agents more useful.
+
+C. Give full access first and design guardrails after the workflow breaks.
+
+D. Avoid access rules because they slow down AI adoption.
+
+**Correct Answer:** A — Do not give delete access unless the workflow truly requires it, because one bad rule could wipe important records, is correct because access should be limited to what the workflow actually needs.
 
 ## 5.4 Three Modes of AI + 4D Monday Checklist
 
@@ -83,6 +107,14 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776941479/ch5_4d_monday_chec
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why does Agency mode need the strongest guardrails? | Because AI operates with more independence, so mistakes can scale faster and affect more systems or people. |
+**Question:** A workflow moves from AI helping draft outputs to AI acting more independently across systems. What should increase as AI independence increases?
+
+A. Guardrails, monitoring, human accountability, and use of all 4Ds should increase.
+
+B. Human review should decrease because AI is now more advanced.
+
+C. Description becomes unnecessary because the AI can act independently.
+
+D. Diligence matters less because agency mode is more automated.
+
+**Correct Answer:** A — Guardrails, monitoring, human accountability, and use of all 4Ds should increase, is correct because Agency mode needs the strongest guardrails as AI acts with more independence.
