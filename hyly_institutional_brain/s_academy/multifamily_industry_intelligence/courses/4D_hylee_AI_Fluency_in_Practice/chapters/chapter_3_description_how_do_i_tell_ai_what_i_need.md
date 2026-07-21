@@ -12,9 +12,17 @@ https://res.cloudinary.com/dtlycu2wl/video/upload/v1776938723/Chapter_3___Art_of
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| Why does AI often produce poor output from vague prompts? | Because AI fills gaps by guessing, and unclear instructions usually lead to unclear or unusable output. |
+**Question:** A teammate says, “AI gave me a generic answer, so the model must be bad.” What is the best response?
+
+A. The model is always the issue when AI gives generic output.
+
+B. The prompt may have been too vague, so AI had to guess the missing context.
+
+C. Generic output means AI should not be used for that task again.
+
+D. The teammate should use AI only for one-word answers.
+
+**Correct Answer:** B — The prompt may have been too vague, so AI had to guess the missing context, is correct because unclear Description often causes generic or unusable AI output.
 
 ## 3.2 Product, Process, and Performance
 
@@ -28,9 +36,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776938716/ch3_description_di
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| What are the three dimensions of Description? | Product, Process, and Performance. |
+**Question:** You ask AI to “compare two campaign ideas, think step by step, and respond like a critical marketing reviewer.” Which part of the prompt sets AI’s behavior?
+
+A. “Compare two campaign ideas” sets the behavior because it explains the output.
+
+B. “Think step by step” sets the behavior because it defines the final format.
+
+C. “Respond like a critical marketing reviewer” sets the behavior because it defines the role and stance.
+
+D. The prompt does not include behavior because AI cannot be given a role.
+
+**Correct Answer:** C — “Respond like a critical marketing reviewer” sets the behavior because it defines the role and stance, is correct because Performance controls how AI behaves.
 
 ## 3.3 Bad vs. Good Prompts
 
@@ -50,9 +66,17 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776938716/ch3_description_di
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| What makes a good prompt stronger than a bad prompt? | It gives AI clear context, format, audience, tone, goal, thinking direction, and constraints. |
+**Question:** Which prompt is strongest for getting a useful client follow-up email?
+
+A. “Write an email.”
+
+B. “Write a better email for someone.”
+
+C. “Write a 3-sentence follow-up email to a multifamily property manager after a Halo demo, with a warm tone and a CTA to book a 30-minute call.”
+
+D. “Write something professional and make it sound good.”
+
+**Correct Answer:** C — “Write a 3-sentence follow-up email to a multifamily property manager after a Halo demo, with a warm tone and a CTA to book a 30-minute call,” is correct because it gives the task, audience, context, tone, length, and goal.
 
 ## 3.4 Description Checklist and Throne Connection
 
@@ -67,6 +91,14 @@ https://res.cloudinary.com/dtlycu2wl/image/upload/v1776938716/ch3_description_th
 
 ### Knowledge Check
 
-| Question | Answer |
-|---|---|
-| How does Description build the AI Multiplier leg? | Clearer instructions help AI produce better work faster, multiplying speed and quality. |
+**Question:** You repeatedly ask AI to create similar reports, but each output needs heavy editing. What is the best next step?
+
+A. Save a stronger prompt template with format, audience, tone, role, context, and constraints.
+
+B. Stop using AI because repeated tasks should always be manual.
+
+C. Remove all instructions so AI has more freedom to decide.
+
+D. Use a shorter prompt so the output becomes more creative.
+
+**Correct Answer:** A — Save a stronger prompt template with format, audience, tone, role, context, and constraints, is correct because clear reusable Description reduces rework and improves consistency.
